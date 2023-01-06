@@ -1,0 +1,27 @@
+{
+	"format_version": "1.12",
+	"minecraft:recipe_shaped": {
+		"description": {
+			"identifier": "pb:ironite_scalerec"
+		},
+		"tags": [
+			"crafting_table"
+		],
+		"key": {
+			"a": {
+				"item": "stick"
+			},
+			"b": {
+				"item": "emerald"
+			}
+		},
+		"pattern": [
+			" b ",
+			" a ",
+			" a "
+		],
+		"result": {
+			"item": "pb:irionite_scale"
+		}
+	}
+}

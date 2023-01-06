@@ -1,0 +1,52 @@
+{
+	"format_version": 2,
+	"metadata": {
+		"authors": [
+			"PenguinBTW"
+		],
+		"generated_with": {
+			"bridge": [
+				"2.5.4"
+			],
+			"dash": [
+				"0.10.8"
+			]
+		}
+	},
+	"header": {
+		"name": "Step by step guide p1",
+		"description": "",
+		"min_engine_version": [
+			1,
+			19,
+			50
+		],
+		"uuid": "2ddedeb9-9240-425e-b4db-d1785198474c",
+		"version": [
+			1,
+			0,
+			0
+		]
+	},
+	"modules": [
+		{
+			"type": "resources",
+			"uuid": "2768d7a7-6bda-4179-8903-6c735f5372e5",
+			"version": [
+				1,
+				0,
+				0
+			]
+		}
+	],
+	"dependencies": [
+		{
+			"uuid": "89593fb8-8f13-4c49-bbd3-7ab502dd3e05",
+			"version": [
+				1,
+				0,
+				0
+			]
+		}
+	]
+}
